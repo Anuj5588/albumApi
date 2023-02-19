@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "ALBUM1"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "ALBUM2"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "ALBUM3"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "ALBUM4"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "ALBUM5"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "ALBUM6"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "ALBUM7"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "ALBUM8"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title":"ALBUM8"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "ALBUM19"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "ALBUM10"
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "title": "ALBUM11"
+    },
+    {
+      "userId": 2,
+      "id": 13,
+      "title": "ALBUM12"
+    },
+    {
+      "userId": 2,
+      "id": 14,
+      "title": "ALBUM13"
+    },
+   
+    
+    {
+      "id": 101
+    }
+  ]
+}
